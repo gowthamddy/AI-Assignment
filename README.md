@@ -20,7 +20,7 @@ Before running the project, ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-2. **Libraries**
+   git clone github.com/gowthamddy/AI-Assignment.git
+2. **Libraries**:
+   ```bash
    pip install langchain flask requests beautifulsoup4 sentence-transformers faiss-cpu
