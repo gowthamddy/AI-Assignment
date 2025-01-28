@@ -22,3 +22,5 @@ Before running the project, ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
+2. **Libraries**
+   pip install langchain flask requests beautifulsoup4 sentence-transformers faiss-cpu
